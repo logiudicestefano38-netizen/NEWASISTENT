@@ -1,0 +1,7 @@
+{
+  "name": " Fany IA Asistent",
+  "description": "Base de conocimiento técnica interactiva y asistente de IA especializado en Programación Web, Soporte Técnico y más.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
